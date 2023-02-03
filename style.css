@@ -1,0 +1,32 @@
+* {box-sizing: border-box;
+}
+
+html {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+img {
+    width: 25%;
+    height: auto;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    line-height: 1.5;
+    justify-content: flex-end;
+    flex-direction: center;
+  }
+
+  header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1%;
+    background-color: #96b9da;
+    color: rgb(13, 12, 13);
+
+  }
+  #no-background {
+    background-image: none;
+  }
