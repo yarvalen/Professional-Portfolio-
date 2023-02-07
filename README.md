@@ -1,7 +1,7 @@
 # Professional-Portfolio-
 
 ## Screenshot 
-<img src="/Users/bluevalenz/bootcamp/bootcamp/Professional-Portfolio-/images/Screenshot Portfolio.png">
+<img src="images/Screenshot Portfolio.png">
 
 ## Background
 This page is to demstrate a short bio of myself, projects, and work experience for entry-level position where I can grow and learn from experienced members in computer programming.
